@@ -47,13 +47,14 @@ Het project volgt de CRISP-DM methodologie:
 │   └── processed/        # Opgeschoonde datasets
 │
 ├── notebooks/
-│   Gemeente_notebook.ipynb
-│   Noah_notebook.ipynb
-│   Bo_notebook.ipynb
-│   Wail_notebook.ipynb
-│   Faysel_notebook.ipynb
-│   Ismael_notebook.ipynb
-│
+├── final/
+│   └── Gemeente_notebook.ipynb
+├── individual/
+│   ├── Noah_notebook.ipynb
+│   ├── Bo_notebook.ipynb
+│   ├── Wail_notebook.ipynb
+│   ├── Faysel_notebook.ipynb
+│   └── Ismael_notebook.ipynb
 │
 ├── README.md
 └── .gitignore
