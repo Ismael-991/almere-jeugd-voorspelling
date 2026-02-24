@@ -42,6 +42,7 @@ Het project volgt de CRISP-DM methodologie:
 
 ## Projectstructuur
 
+```
 ├── data/
 │   ├── raw/              # Originele datasets
 │   └── processed/        # Opgeschoonde datasets
@@ -58,6 +59,7 @@ Het project volgt de CRISP-DM methodologie:
 │
 ├── README.md
 └── .gitignore
+```
 
 ## Dataset
 
