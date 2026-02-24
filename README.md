@@ -64,9 +64,7 @@ Het project volgt de CRISP-DM methodologie:
 Gebruikte data:
 
 - CBS wijkdata Almere (2019–2025)
-- Leeftijdscategorieën per wijk
-- Jeugdzorggegevens
-- Totale bevolking
+
 
 ## Conclusie
 
